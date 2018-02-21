@@ -4,7 +4,6 @@
     <modules>
 <<<<<<< HEAD
 =======
-      <module fileurl="file://C:\Users\user\Desktop\Training\NTGTraining.iml" filepath="C:\Users\user\Desktop\Training\NTGTraining.iml" />
 >>>>>>> nafea
       <module fileurl="file://$PROJECT_DIR$/Training.iml" filepath="$PROJECT_DIR$/Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
